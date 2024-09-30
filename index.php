@@ -1,3 +1,5 @@
 <?php
 
-echo "Hej";
+$title = "Hello git";
+
+require __DIR__ . '/header.php';
